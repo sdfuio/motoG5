@@ -9,4 +9,5 @@
 * https://mirrorbits.lineageos.org/recovery/cedric/20221115/lineage-18.1-20221115-recovery-cedric.img
 * https://mirrorbits.lineageos.org/recovery/cedric/20221115/lineage-18.1-20221115-recovery-cedric.img?sha256
 * https://motorola-global-portal.custhelp.com/euf/assets/downloads/Motorola_Mobile_Drivers_64bit.msi
+* https://android-sdk-tools.en.lo4d.com/download/mirror-ls1
 * 
