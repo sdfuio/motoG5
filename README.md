@@ -26,12 +26,11 @@ adb sideload lineage-18.1-20221115-nightly-cedric-signed.zip
  and try again.
  
 ## ERROR: This package requires firmware from an Adroid 8.1 based stock ROM build. Please upgrade firmware and retry!
-see [xda](https://forum.xda-developers.com/t/rom-official-cedric-11-lineageos-18-1.4260293/page-9)
+Download [stock rom](https://mirrors-obs-2.lolinet.com/firmware/motorola/2017/cedric/official/RETAIL/CEDRIC_RETAIL_8.1.0_OPP28.85-19-4-2_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip) and make modem newer. 
 
-Download [stock rom](https://mirrors-obs-2.lolinet.com/firmware/motorola/2017/cedric/official/RETAIL/CEDRIC_RETAIL_8.1.0_OPP28.85-19-4-2_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip) and make modem newer.
+Extract the zip file. This zip includes NON-HLOS.bin.
 
 fastboot flash modem NON-HLOS.bin
 
-and install lineage os.
 
 
