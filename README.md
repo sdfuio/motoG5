@@ -10,4 +10,13 @@
 * https://mirrorbits.lineageos.org/recovery/cedric/20221115/lineage-18.1-20221115-recovery-cedric.img?sha256
 * https://motorola-global-portal.custhelp.com/euf/assets/downloads/Motorola_Mobile_Drivers_64bit.msi
 * https://android-sdk-tools.en.lo4d.com/download/mirror-ls1
-* 
+
+# install 
+./fastboot flash 
+
+# troubleshooting
+## ERROR: This package requires firmware from an Adroid 8.1 based stock ROM build. Please upgrade firmware and retry!
+Download [
+https://mirrors-obs-2.lolinet.com/firmware/motorola/2017/cedric/official/RETAIL/CEDRIC_RETAIL_8.1.0_OPP28.85-19-4-2_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip](stock rom) and
+
+fastboot flash modem NON-HLOS.bin
